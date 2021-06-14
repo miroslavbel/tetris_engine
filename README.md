@@ -9,6 +9,8 @@ Simple engine for tetris. Not atomic. Not thread-safe.
 This project depends on C std. Requires exact-width integer types.
 
 Uses [Doxygen](https://www.doxygen.nl/index.html) to generate documentation.
+Generated documentation is available [here](https://miroslavbel.github.io/projects/tetris_engine/documentation/doxygen/html/index.html).
+
 All documentation is written in Russian.
 
 ## Project structure
